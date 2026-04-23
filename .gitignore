@@ -1,11 +1,18 @@
-.htaccess
-css.php
-rpc/
-sites/site*/admin/
-sites/site*/private/
-sites/site*/public/admin/
-sites/site*/public/setup/
-sites/site*/public/theme/
-textpattern/
-HISTORY.txt
-README.txt
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+trainings.json
